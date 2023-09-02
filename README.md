@@ -3,7 +3,7 @@ A simple command-line word counter
 
 I needed a simple word counter program, so I quickly wrote this one.  Then, I lamented that it couldn't take input from stdin, so I added that.
 
-Jim's Word Count (jwc) v1.01 by Jim Lawless https://jimlawless.net/
+Jim's Word Count (jwc) v1.02 by Jim Lawless https://jimlawless.net/
 
 Syntax:
 
