@@ -16,7 +16,7 @@ or
     
 The output is a count of strings with no spaces appearing in the specified text file.
 
-Binaries are availble at:
+Windows binaries are availble at:
 
 https://jimlawless.net/downloads/jwc.zip
 
